@@ -54,7 +54,7 @@ I assigned IP addresses to router interfaces, connected the departments to the r
 
 ## Topology Overview
 
-![Smart Mini-Market Network Topology](./topology-overview.png)
+![Smart Mini-Market Network Topology](topology-overview.png.png)
 
 ## Project Type
 
